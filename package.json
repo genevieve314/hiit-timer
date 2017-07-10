@@ -1,0 +1,19 @@
+{
+  "name": "hiit-timer",
+  "version": "1.0.0",
+  "description": "a react native timer app for hiit workouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genevieve314/hiit-timer.git"
+  },
+  "author": "genevieve",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/genevieve314/hiit-timer/issues"
+  },
+  "homepage": "https://github.com/genevieve314/hiit-timer#readme"
+}
